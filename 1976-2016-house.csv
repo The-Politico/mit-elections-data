@@ -20000,9 +20000,9 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,special,
 2016,North Dakota,ND,38,44,36,US House,0,gen,FALSE,Chase Iron Eyes,democrat,FALSE,80377,338459,20171005
 2016,North Dakota,ND,38,44,36,US House,0,gen,FALSE,Jack Seaman,libertarian,FALSE,23528,338459,20171005
 2016,North Dakota,ND,38,44,36,US House,0,gen,FALSE,,,TRUE,574,338459,20171005
-2014,North Dakota,ND,38,44,36,US House,0,gen,FALSE,Kevin Cramer,,FALSE,138100,248670,20171005
-2014,North Dakota,ND,38,44,36,US House,0,gen,FALSE,George Sinner,,FALSE,95678,248670,20171005
-2014,North Dakota,ND,38,44,36,US House,0,gen,FALSE,"Robert J. ""Jack"" Seaman",,FALSE,14531,248670,20171005
+2014,North Dakota,ND,38,44,36,US House,0,gen,FALSE,Kevin Cramer,republican,FALSE,138100,248670,20171005
+2014,North Dakota,ND,38,44,36,US House,0,gen,FALSE,George Sinner,democrat,FALSE,95678,248670,20171005
+2014,North Dakota,ND,38,44,36,US House,0,gen,FALSE,"Robert J. ""Jack"" Seaman",libertarian,FALSE,14531,248670,20171005
 2014,North Dakota,ND,38,44,36,US House,0,gen,FALSE,,,TRUE,361,248670,20171005
 2012,North Dakota,ND,38,44,36,US House,0,gen,FALSE,Kevin Cramer,republican,FALSE,173585,316224,20171005
 2012,North Dakota,ND,38,44,36,US House,0,gen,FALSE,Pam Gulleson,democrat,FALSE,131870,316224,20171005
