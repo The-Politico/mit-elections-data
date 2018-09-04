@@ -8904,9 +8904,9 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,special,
 2014,Kansas,KS,20,47,32,US House,4,gen,FALSE,Mike Pompeo,republican,FALSE,138757,208153,20171005
 2014,Kansas,KS,20,47,32,US House,4,gen,FALSE,Perry L. Schuckman,democrat,FALSE,69396,208153,20171005
 2012,Kansas,KS,20,47,32,US House,1,gen,FALSE,Tim Huelskamp,republican,FALSE,211337,211337,20171005
-2012,Kansas,KS,20,47,32,US House,2,gen,FALSE,Lynn Jenkins,,FALSE,167463,293718,20171005
-2012,Kansas,KS,20,47,32,US House,2,gen,FALSE,Tobias Schlingensiepen,,FALSE,113735,293718,20171005
-2012,Kansas,KS,20,47,32,US House,2,gen,FALSE,Dennis Hawver,,FALSE,12520,293718,20171005
+2012,Kansas,KS,20,47,32,US House,2,gen,FALSE,Lynn Jenkins,republican,FALSE,167463,293718,20171005
+2012,Kansas,KS,20,47,32,US House,2,gen,FALSE,Tobias Schlingensiepen,democrat,FALSE,113735,293718,20171005
+2012,Kansas,KS,20,47,32,US House,2,gen,FALSE,Dennis Hawver,libertarian,FALSE,12520,293718,20171005
 2012,Kansas,KS,20,47,32,US House,3,gen,FALSE,Kevin Yoder,,FALSE,201087,293762,20171005
 2012,Kansas,KS,20,47,32,US House,3,gen,FALSE,Joel Balam,,FALSE,92675,293762,20171005
 2012,Kansas,KS,20,47,32,US House,4,gen,FALSE,Mike Pompeo,,FALSE,161094,258922,20171005
