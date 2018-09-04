@@ -8907,8 +8907,8 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,special,
 2012,Kansas,KS,20,47,32,US House,2,gen,FALSE,Lynn Jenkins,republican,FALSE,167463,293718,20171005
 2012,Kansas,KS,20,47,32,US House,2,gen,FALSE,Tobias Schlingensiepen,democrat,FALSE,113735,293718,20171005
 2012,Kansas,KS,20,47,32,US House,2,gen,FALSE,Dennis Hawver,libertarian,FALSE,12520,293718,20171005
-2012,Kansas,KS,20,47,32,US House,3,gen,FALSE,Kevin Yoder,,FALSE,201087,293762,20171005
-2012,Kansas,KS,20,47,32,US House,3,gen,FALSE,Joel Balam,,FALSE,92675,293762,20171005
+2012,Kansas,KS,20,47,32,US House,3,gen,FALSE,Kevin Yoder,republican,FALSE,201087,293762,20171005
+2012,Kansas,KS,20,47,32,US House,3,gen,FALSE,Joel Balam,libertarian,FALSE,92675,293762,20171005
 2012,Kansas,KS,20,47,32,US House,4,gen,FALSE,Mike Pompeo,,FALSE,161094,258922,20171005
 2012,Kansas,KS,20,47,32,US House,4,gen,FALSE,Robert Leon Tillman,,FALSE,81770,258922,20171005
 2012,Kansas,KS,20,47,32,US House,4,gen,FALSE,Thomas Jefferson,,FALSE,16058,258922,20171005
