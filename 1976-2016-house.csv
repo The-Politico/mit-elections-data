@@ -13263,11 +13263,11 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,special,
 2014,Mississippi,MS,28,64,46,US House,4,gen,FALSE,Joey Robinson,libertarian,FALSE,3473,155576,20171005
 2014,Mississippi,MS,28,64,46,US House,4,gen,FALSE,"Eli ""Sarge"" Jackson",reform,FALSE,917,155576,20171005
 2014,Mississippi,MS,28,64,46,US House,4,gen,FALSE,Ed Reich,independent,FALSE,857,155576,20171005
-2012,Mississippi,MS,28,64,46,US House,1,gen,FALSE,Alan Nunnelee,,FALSE,186760,309177,20171005
-2012,Mississippi,MS,28,64,46,US House,1,gen,FALSE,Brad Morris,,FALSE,114076,309177,20171005
-2012,Mississippi,MS,28,64,46,US House,1,gen,FALSE,Danny Bedwell,,FALSE,3584,309177,20171005
-2012,Mississippi,MS,28,64,46,US House,1,gen,FALSE,Jim R. Bourland,,FALSE,2390,309177,20171005
-2012,Mississippi,MS,28,64,46,US House,1,gen,FALSE,Chris Potts,,FALSE,2367,309177,20171005
+2012,Mississippi,MS,28,64,46,US House,1,gen,FALSE,Alan Nunnelee,republican,FALSE,186760,309177,20171005
+2012,Mississippi,MS,28,64,46,US House,1,gen,FALSE,Brad Morris,democrat,FALSE,114076,309177,20171005
+2012,Mississippi,MS,28,64,46,US House,1,gen,FALSE,Danny Bedwell,libertarian,FALSE,3584,309177,20171005
+2012,Mississippi,MS,28,64,46,US House,1,gen,FALSE,Jim R. Bourland,constitution,FALSE,2390,309177,20171005
+2012,Mississippi,MS,28,64,46,US House,1,gen,FALSE,Chris Potts,reform,FALSE,2367,309177,20171005
 2012,Mississippi,MS,28,64,46,US House,2,gen,FALSE,Bennie G. Thompson,,FALSE,214978,320244,20171005
 2012,Mississippi,MS,28,64,46,US House,2,gen,FALSE,Bill Marcy,,FALSE,99160,320244,20171005
 2012,Mississippi,MS,28,64,46,US House,2,gen,FALSE,Cobby Mondale Williams,,FALSE,4605,320244,20171005
