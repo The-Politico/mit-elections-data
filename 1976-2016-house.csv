@@ -13272,8 +13272,8 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,special,
 2012,Mississippi,MS,28,64,46,US House,2,gen,FALSE,Bill Marcy,republican,FALSE,99160,320244,20171005
 2012,Mississippi,MS,28,64,46,US House,2,gen,FALSE,Cobby Mondale Williams,independent,FALSE,4605,320244,20171005
 2012,Mississippi,MS,28,64,46,US House,2,gen,FALSE,Lajena Williams,reform,FALSE,1501,320244,20171005
-2012,Mississippi,MS,28,64,46,US House,3,gen,FALSE,Gregg Harper,,FALSE,234717,293322,20171005
-2012,Mississippi,MS,28,64,46,US House,3,gen,FALSE,John ??Luke?? Pannell,,FALSE,58605,293322,20171005
+2012,Mississippi,MS,28,64,46,US House,3,gen,FALSE,Gregg Harper,republican,FALSE,234717,293322,20171005
+2012,Mississippi,MS,28,64,46,US House,3,gen,FALSE,John ??Luke?? Pannell,reform,FALSE,58605,293322,20171005
 2012,Mississippi,MS,28,64,46,US House,4,gen,FALSE,Steven M. Palazzo,,FALSE,182998,285432,20171005
 2012,Mississippi,MS,28,64,46,US House,4,gen,FALSE,Matt Moore,,FALSE,82344,285432,20171005
 2012,Mississippi,MS,28,64,46,US House,4,gen,FALSE,Ron Williams,,FALSE,17982,285432,20171005
