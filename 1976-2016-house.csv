@@ -28189,10 +28189,10 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,special,
 1976,Wisconsin,WI,55,35,25,US House,9,gen,FALSE,"Robert W. Kasten, Jr.",republican,FALSE,163791,248524,20171005
 1976,Wisconsin,WI,55,35,25,US House,9,gen,FALSE,Lynn M. McDonald,democrat,FALSE,84706,248524,20171005
 1976,Wisconsin,WI,55,35,25,US House,9,gen,FALSE,scatter,,FALSE,27,248524,20171005
-2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,Liz Cheney,,FALSE,156176,258788,20171005
-2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,Ryan Greene,,FALSE,75466,258788,20171005
-2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,Daniel Clyde Cummings,,FALSE,10362,258788,20171005
-2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,Lawrence Gerard Struempf,,FALSE,9033,258788,20171005
+2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,Liz Cheney,republican,FALSE,156176,258788,20171005
+2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,Ryan Greene,democrat,FALSE,75466,258788,20171005
+2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,Daniel Clyde Cummings,libertarian,FALSE,10362,258788,20171005
+2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,Lawrence Gerard Struempf,constitution,FALSE,9033,258788,20171005
 2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,Blank Vote,,FALSE,6621,258788,20171005
 2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,,,TRUE,739,258788,20171005
 2016,Wyoming,WY,56,83,68,US House,0,gen,FALSE,Over Vote,,FALSE,391,258788,20171005
